@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.log
+.data/
+coverage/
+
+# Local diagnostics and operating-system files
+.DS_Store
+*.tsbuildinfo
+artifacts/
+# Original reference is already included in public/design-reference.png
+/ChatGPT Image Oct 29, 2026, 12_42_23 PM.png
+# Machine-specific provenance paths; reusable prompts remain versioned
+/scripts/catalog-image-sources.json

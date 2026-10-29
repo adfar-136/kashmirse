@@ -1,0 +1,79 @@
+{
+  "tool": "Built-in Imagegen",
+  "useCase": "product-mockup",
+  "basePrompt": "High-resolution photographic ecommerce product atlas, not a website. Equal square product photographs arranged edge-to-edge in the specified columns and rows, no gutters, dividers, text or branding. Each tile depicts its assigned distinct product, centered, fully visible, with warm ivory linen, soft daylight, natural contact shadows, generous padding and the Kashmir Se heritage mood. Row-major order. Photorealistic materials. Products do not cross tile boundaries.",
+  "assets": [
+    {
+      "key": "dry-fruits",
+      "columns": 3,
+      "rows": 2,
+      "subjects": "1: bowl of pale golden walnut halves. 2: rustic bowl of whole in-shell walnuts. 3: slender brown locally sourced almonds. 4: soft orange dried apricots on a small plate. 5: clear jar of golden raisins. 6: bowl of cashews, pistachios, almonds and walnut mix."
+    },
+    {
+      "key": "saffron-tea",
+      "columns": 3,
+      "rows": 2,
+      "subjects": "1: open clear glass jar of deep red saffron threads with one purple crocus. 2: loose green kahwa tea blend with almond slivers and cardamom. 3: dark loose noon chai tea leaves beside an ivory cup of pink tea. 4: golden saffron kahwa in clear glass teacup with delicate spices. 5: clear glass honey jar with wooden dipper and amber honey. 6: dried rosebuds and green tea in a shallow ceramic bowl."
+    },
+    {
+      "key": "food-pickles",
+      "columns": 3,
+      "rows": 2,
+      "subjects": "1: glass jar of green kohlrabi monj pickle with small diced pieces. 2: glass jar of lotus stem nadru pickle with recognizable sliced lotus holes. 3: jar of whole garlic cloves in red pickle oil. 4: jar of mixed cauliflower carrot and green chilli vegetable pickle. 5: stacked dark red Kashmiri ver masala spice discs on a ceramic plate. 6: bowl of short aromatic white rice grains with a small wooden scoop."
+    },
+    {
+      "key": "clothing",
+      "columns": 3,
+      "rows": 3,
+      "subjects": "1: olive green embroidered women’s pheran tunic, front view on invisible mannequin. 2: cream three-piece tilla embroidered unstitched suit fabric neatly arranged. 3: pale blue cotton embroidered suit with dupatta. 4: rich burgundy wool winter pheran with gold neckline embroidery. 5: charcoal men’s traditional plain pheran with subtle collar embroidery. 6: mustard yellow child’s embroidered pheran. 7: deep emerald embroidered long kaftan. 8: ivory silk embroidered women’s short jacket. 9: navy blue men’s wool waistcoat. Garments centered fully within their individual tiles, clearly different colours and shapes."
+    },
+    {
+      "key": "shawls",
+      "columns": 3,
+      "rows": 2,
+      "subjects": "1: folded rust red embroidered wool shawl with ornate floral edge. 2: folded plain oatmeal fine pashmina shawl with delicate fringe. 3: richly patterned multicoloured Kani-style stole in maroon and gold. 4: ivory stole with fine delicate Sozni floral embroidery. 5: rolled forest green ribbed wool muffler. 6: folded dusty rose plain fine pashmina stole with fringe."
+    },
+    {
+      "key": "home-crafts",
+      "columns": 3,
+      "rows": 3,
+      "subjects": "1: tall engraved copper water jug with handle and lid. 2: traditional large Kashmiri copper samovar with base and spout. 3: two small engraved copper kahwa cups. 4: oval painted black papier-mache keepsake box with colourful flowers and lid. 5: rectangular carved dark walnut wood jewellery box. 6: two ivory crewel floral embroidered cushion covers on cushions. 7: small blue and ivory floral chain-stitch rug fully visible. 8: red and cream hand-knotted Persian-style Kashmiri carpet with central medallion fully visible. 9: long ivory embroidered table runner with green and rust flowers fully visible."
+    },
+    {
+      "key": "cricket",
+      "columns": 3,
+      "rows": 2,
+      "subjects": "1: adult full-size Kashmir willow cricket bat with natural pale wood and dark green grip. 2: visibly shorter junior cricket bat with red grip. 3: light tennis-ball cricket bat with black grip and wide flat blade. 4: premium adult leather-ball cricket bat with blue grip and thick edges. 5: slim lightweight tape-ball cricket bat with orange grip. 6: cricket bat care kit with small oil bottle, wooden mallet and grip roll. Bats photographed full length diagonally within their own tiles, no text or brand labels."
+    },
+    {
+      "key": "gifts",
+      "columns": 3,
+      "rows": 2,
+      "subjects": "1: open rectangular food discovery gift box containing saffron jar, kahwa tin, honey and pickle jar. 2: elegant gift box with two engraved copper cups and a kahwa tin. 3: four-compartment wooden dry fruit hamper with almonds walnuts raisins apricots. 4: luxurious burgundy wedding gift hamper with food jars and decorative ribbon. 5: tea sampler gift box with three small tins and dried rosebuds. 6: craft keepsake gift set with two painted papier-mache boxes and a carved walnut wood tray."
+    },
+    {
+      "key": "fresh-produce",
+      "columns": 3,
+      "rows": 2,
+      "subjects": "1: shallow orchard crate of deep red Kashmiri apples with one cut apple. 2: bowl of golden-green pears with leaf stems. 3: fresh lotus roots nadru, whole stems and cut round slices showing the holes. 4: bowl of shiny red cherries with stems. 5: bowl of purple and red ripe plums. 6: three golden yellow quince fruits on a folded linen cloth. All fresh produce realistic and full within separate tile."
+    },
+    {
+      "key": "dried-foods",
+      "columns": 3,
+      "rows": 2,
+      "subjects": "1: bowl of dark red sun-dried tomato halves. 2: shallow basket of dried brown aubergine slices. 3: bowl of pale dried bottle gourd rings. 4: small pile of dried ivory turnip strips. 5: bowl of dried dark green collard leaves. 6: bowl of premium dried morel mushrooms with honeycomb caps."
+    },
+    {
+      "key": "bakery",
+      "columns": 3,
+      "rows": 2,
+      "subjects": "1: square pieces of walnut fudge with real chopped walnuts on a plate. 2: round golden plain bakery biscuits in a shallow bowl. 3: almond cookies topped with sliced almonds on a small tray. 4: Kashmiri shufta sweet mix with nuts dried fruit and golden syrup in a bowl. 5: small crisp Kashmiri kulcha breads with sesame seeds on a plate. 6: flaky round baqerkhani bread cut to show layered pastry."
+    },
+    {
+      "key": "accessories",
+      "columns": 3,
+      "rows": 2,
+      "subjects": "1: cream canvas tote bag with Kashmiri floral embroidery in rust and green. 2: pair of colourful handpainted papier-mache round earrings. 3: warm ivory handmade saffron soap bar with a few red saffron threads on a small dish. 4: emerald embroidered rectangular evening clutch purse. 5: burgundy wool cap with fine gold Kashmiri embroidery. 6: pale rose handmade soap bar with dry rose petals on an ivory dish."
+    }
+  ]
+}
